@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 The top 2 languages I've used at work are JavaScript and Java.
+- 🌱 But outside of work, I'm interested in different programming languages (e.g. Go) and paradigms.
+- 😄 I've been interested in using reactive programming (e.g. RxJS, Project Reactor) to simplify and make reusable asynchronous logic.
+- 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/cjl0/).
